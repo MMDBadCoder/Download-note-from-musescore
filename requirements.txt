@@ -1,0 +1,15 @@
+certifi==2022.9.14
+charset-normalizer==2.0.12
+cssselect2==0.4.1
+idna==3.4
+lxml==4.9.1
+Pillow==8.4.0
+PyPDF2==2.10.9
+reportlab==3.6.8
+requests==2.27.1
+svglib==1.1.0
+tinycss2==1.1.1
+typing_extensions==4.1.1
+urllib3==1.26.12
+webencodings==0.5.1
+wget==3.2
